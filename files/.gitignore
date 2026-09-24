@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# App data (personal habits, notes, planner) - never commit
+*.db
+*.sqlite
+*.sqlite3
+
+# PyInstaller / build output
+build/
+dist/
+*.spec
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
